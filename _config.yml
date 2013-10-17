@@ -1,6 +1,9 @@
 menu:
-  Home:
+  Home: 
   Archives: archives
+  Resume: http://sonald.github.io/Resume
+  Github: http://github.com/sonald
+  About: /about
 
 widgets:
 - search
@@ -24,7 +27,7 @@ addthis:
 
 fancybox: true
 
-google_analytics:
+google_analytics: UA-40340886-1
 rss:
 
 comment_provider: facebook
